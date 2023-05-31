@@ -1,2 +1,6 @@
 name:
-DOB:
+DOB
+salary:
+Address:
+:wq
+
